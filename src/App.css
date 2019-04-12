@@ -1,0 +1,9 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  height: calc(100vh - 20px /* margin */);
+}
+
+.App .rbc-calendar {
+  flex: 1;
+}
