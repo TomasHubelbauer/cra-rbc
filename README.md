@@ -31,3 +31,7 @@ Debugging in the tests is supported and configured as per
 [Debugging Jest tests](https://facebook.github.io/create-react-app/docs/debugging-tests#debugging-tests-in-visual-studio-code)
 
 You can use the VS Code debugger with the *Debug CRA tests* configuration.
+
+## To-Do
+
+### Set up a GitHub Actions workflow for deploying GitHub Pages from `docs`
